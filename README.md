@@ -14,7 +14,7 @@
  * test-decoration - efeitos decorativos (ex.: underline)
  * word/letter-spacing - espaço entre palavras/letras (ex.: 1em)
 
- ou também é possivel utilizar os atalhos para definir tudo em uma só propriedade: fonte
+   ou também é possivel utilizar os atalhos para definir tudo em uma só propriedade: fonte
 
  # Cores e Fundos
 
@@ -24,7 +24,7 @@
  * background-repeat - define se a imagem de fundo repetirá (ex.: no-repeat)
  * background-attachment - define se a imagem do fundo será fixa ou moverá conforme 
                             a página (ex.: scroll)
-* background-position - posição da imagem de fundo (ex.: right top)
+ * background-position - posição da imagem de fundo (ex.: right top)
 
-ou também é possivel utilizar os atalhos para definir tudo em uma só propriedade: background
+   ou também é possivel utilizar os atalhos para definir tudo em uma só propriedade: background
 

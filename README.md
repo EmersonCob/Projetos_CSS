@@ -2,6 +2,8 @@
 
  Dominando o CSS
 
+ ## Principais Propriedades
+
  # Testos e Fontes
 
  * font-family - Família de fonte utilizada (ex.: serif)
@@ -52,7 +54,7 @@
  # Contornos e Tabelas
 
  * cursor - especifica o cursor (ex.: pointer)
- * outline width - largura da linha de contorno (ex.: thin) 
+ * outline-width - espessura da linha de contorno (ex.: thin) 
  * outline-style - estilo da linha de contorno (ex.: dotted)
  * outline-color - cor da linha de contorno (ex.: #F22)
  * caption-side - posiçao do título da tabela (ex.: bottom)
@@ -64,5 +66,34 @@
 
  # Margens e Espaçamento
 
- * 
+ * margin-top
+ * margin-right               Tamanho da margem para
+ * margin-bottom              cada um dos quatro 
+ * margin-left                quadrantes (ex.: 2em)
+
+ * padding-top
+ * padding-right              Distância utilizada para
+ * padding-bottom             espaçamento nos quatro
+ * padding-left               quadrantes (ex.: 2em)
+
+   ou também é possível utilizar os atalhos para definir tudo em
+                  uma só propriedade: 
+
+              margin              padding
+
+ # Formatação visual
+
+ * display - forma de exibição do conteúdo (ex.: inline)
+ * position - posicionamento (ex.: absolte)
+ * float - posicionamento adjacente à esquerda ou à direita 
+           do elemento (ex.: left)
+ * clear - controle de limpeza de elemento float (ex.: left)
+ * direction - define a direção do texto da direita para a esquerda
+               ou da esquerda para a direita (ex.: ltr)
+ * top
+   right    distância do elemento com relação à 
+   bottom   extremidade de seu elemento pai (ex.: 20px)
+   left
+
+ #   
 

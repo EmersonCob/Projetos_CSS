@@ -96,4 +96,23 @@
    left
 
  ##   
+ # Principais Seletores
 
+ ## Seletores Básicos
+
+ * *{} - afeta todos os elementos da página
+ * tag {} - afeta todos elementos dessa tag
+ * .classe {} - afeta todos os elementos com essa classe
+ * #identificador {} - afeta todos os elementos com esse id
+ * [atributo] {} - afeta todos os elementos que contenham esse atributo
+ * [atributo=valor] {} - afeta todos os elementos que contenham esse atributo com esse valor
+ * [atributo*=valor] {} - afeta todos os elementos que contenham esse valor em algum lugar desse atributo
+
+ ## Seletores Combinadores 
+
+ * elem1 elem2 {} - afeta todos os elem2 que sejam descendetes de elem1 (filhos diretos ou não)
+ * elem1 > elem2 {} - afeta todos os elem2 que sejam filhos diretos do elem1
+ * elem1 + elem2 {} - afeta o elem2 seguinte de elem1, ambos com o mesmo pai (irmãos adjacentes)
+ * elem1 - elem2 {} - afeta todos os elem2 seguintes de elem1, todos com o mesmo pai (irmãos de forma geral)
+
+ ## Seletores Pseudo-classe 

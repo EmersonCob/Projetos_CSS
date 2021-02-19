@@ -14,7 +14,7 @@
  * test-decoration - efeitos decorativos (ex.: underline)
  * word/letter-spacing - espaço entre palavras/letras (ex.: 1em)
 
-   ou também é possivel utilizar os atalhos para definir tudo em uma só propriedade: fonte
+   ou também é possivel utilizar os atalhos para definir tudo em uma só propriedade: font
 
  # Cores e Fundos
 
@@ -27,4 +27,42 @@
  * background-position - posição da imagem de fundo (ex.: right top)
 
    ou também é possivel utilizar os atalhos para definir tudo em uma só propriedade: background
+
+ # Bordas
+
+ * border-top-width         
+ * border-right-width        lagura das bordas nos quatro
+ * border-bottom-width        quadrantes (ex.: medium)
+ * border-left-width
+
+ * border-top-color
+ * border-right-color         cor das bordas nos quatro
+ * border-bottom-color         quadrantes (ex.: black)
+ * border-left-color
+ 
+ * border-top-style
+ * border-right-style         definição de estilos das 
+ * border-bottom-style         bordas nos quatro    
+ * border-left-style            quadrantes (ex.: dotted)
+
+   ou também é possivel utilizar os atalhos para definir tudo em uma só propriedade:
+
+      border-width       border-color       border-style      border
+
+ # Contornos e Tabelas
+
+ * cursor - especifica o cursor (ex.: pointer)
+ * outline width - largura da linha de contorno (ex.: thin) 
+ * outline-style - estilo da linha de contorno (ex.: dotted)
+ * outline-color - cor da linha de contorno (ex.: #F22)
+ * caption-side - posiçao do título da tabela (ex.: bottom)
+ * table-layout - define layout automático (ex.: fixed)
+ * border-collapse - modelo de borda usado (ex.: collapse)
+ * clear - controle de limpeza do elemento float (ex.: left)
+ * border-spacing - distâncias entre células (ex.: 15pt)
+ * empty-cells = visibilidade de células vazias (ex.: hide)
+
+ # Margens e Espaçamento
+
+ * 
 

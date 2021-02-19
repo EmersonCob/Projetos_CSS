@@ -2,9 +2,9 @@
 
  Dominando o CSS
 
- ## Principais Propriedades
+ # Principais Propriedades
 
- # Testos e Fontes
+ ## Testos e Fontes
 
  * font-family - Família de fonte utilizada (ex.: serif)
  * font-style - estile usado na fonte (ex.: italic)
@@ -18,7 +18,7 @@
 
    ou também é possivel utilizar os atalhos para definir tudo em uma só propriedade: font
 
- # Cores e Fundos
+ ## Cores e Fundos
 
  * color - cor do texto (ex.: #ffffff)
  * background-color - cor do fundo (ex.: black)
@@ -30,7 +30,7 @@
 
    ou também é possivel utilizar os atalhos para definir tudo em uma só propriedade: background
 
- # Bordas
+ ## Bordas
 
  * border-top-width         
  * border-right-width        lagura das bordas nos quatro
@@ -49,9 +49,9 @@
 
    ou também é possivel utilizar os atalhos para definir tudo em uma só propriedade:
 
-      border-width       border-color       border-style      border
+         border-width          border-color             border-style             border
 
- # Contornos e Tabelas
+ ## Contornos e Tabelas
 
  * cursor - especifica o cursor (ex.: pointer)
  * outline-width - espessura da linha de contorno (ex.: thin) 
@@ -62,9 +62,9 @@
  * border-collapse - modelo de borda usado (ex.: collapse)
  * clear - controle de limpeza do elemento float (ex.: left)
  * border-spacing - distâncias entre células (ex.: 15pt)
- * empty-cells = visibilidade de células vazias (ex.: hide)
+ * empty-cells - visibilidade de células vazias (ex.: hide)
 
- # Margens e Espaçamento
+ ## Margens e Espaçamento
 
  * margin-top
  * margin-right               Tamanho da margem para
@@ -81,7 +81,7 @@
 
               margin              padding
 
- # Formatação visual
+ ## Formatação visual
 
  * display - forma de exibição do conteúdo (ex.: inline)
  * position - posicionamento (ex.: absolte)
@@ -91,9 +91,9 @@
  * direction - define a direção do texto da direita para a esquerda
                ou da esquerda para a direita (ex.: ltr)
  * top
-   right    distância do elemento com relação à 
-   bottom   extremidade de seu elemento pai (ex.: 20px)
+   right      distância do elemento com relação à 
+   bottom     extremidade de seu elemento pai (ex.: 20px)
    left
 
- #   
+ ##   
 

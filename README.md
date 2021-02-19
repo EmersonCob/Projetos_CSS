@@ -91,11 +91,10 @@
  * direction - define a direção do texto da direita para a esquerda
                ou da esquerda para a direita (ex.: ltr)
  * top
-   right      distância do elemento com relação à 
-   bottom     extremidade de seu elemento pai (ex.: 20px)
+   right           distância do elemento com relação à 
+   bottom          extremidade de seu elemento pai (ex.: 20px)
    left
 
- ##   
  # Principais Seletores
 
  ## Seletores Básicos
@@ -116,3 +115,12 @@
  * elem1 - elem2 {} - afeta todos os elem2 seguintes de elem1, todos com o mesmo pai (irmãos de forma geral)
 
  ## Seletores Pseudo-classe 
+
+    São palavras-chaves adicionadas aos seletores que especificam um estado especial do elemento selecionado
+
+                                  elemento : pseudoclasse {}
+
+ ### Exemplos de pseudpclasses:
+
+ * :hover - aparece ao passsar o mouse por cima
+ *                                   

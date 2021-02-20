@@ -123,4 +123,19 @@
  ### Exemplos de pseudpclasses:
 
  * :hover - aparece ao passsar o mouse por cima
- *                                   
+ * :active - aparece quando o elemento é ativado/clicado
+ * :visited - aparece quando o elemento/link já foi visitado
+ * :focus - aparece quando o elemento recebe foco, como quando é 
+            selecionado com o teclado, por exemplo                                   
+
+ ### Exemplo
+
+ * div.menu a:hover {}
+ * #content p {}
+
+                qual é o mais específico?
+
+ * div.menu a:hover {} = (0,0,2,2)
+ * #content p {} = (0,1,0,1)
+
+   Portanto, o segundo será utilizado para estilizar o elemento!

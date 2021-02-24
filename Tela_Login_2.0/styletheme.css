@@ -43,12 +43,12 @@ label {
 
 label input {
     font-family: sans-serif;
-    font-size: 1.2rem;
+    font-size: 1.0rem;
     color: #f9f9f9;
     background: transparent;
 
     padding: 1rem 3.2rem 1rem 1.2rem;
-    min-width: 24rem;
+    min-width: 22rem;
 
     border-radius: 0.2rem;
     border: 2px solid #7a7a7a56;
@@ -95,9 +95,9 @@ label input:not(:focus) + p {
 .button {
     background-color: #040404;
     color: #2aa6ee;
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     padding: 1rem 3.2rem 1rem 1.2rem;
-    min-width: 24rem;
+    min-width: 22rem;
     border-radius: 0.2rem;
     cursor: pointer;
 }

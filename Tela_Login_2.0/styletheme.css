@@ -101,3 +101,15 @@ label input:not(:focus) + p {
     border-radius: 0.2rem;
 
 }
+
+p {
+    text-align: center;
+}
+
+.newAccount {
+    color: #7a7a7a;
+}
+
+#newAccount{
+    color: #2aa6ee
+}

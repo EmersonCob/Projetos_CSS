@@ -99,6 +99,7 @@ label input:not(:focus) + p {
     padding: 1rem 3.2rem 1rem 1.2rem;
     min-width: 24rem;
     border-radius: 0.2rem;
+    cursor: pointer;
 }
 
 p {

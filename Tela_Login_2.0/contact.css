@@ -30,6 +30,7 @@ a:hover{
     margin: 3px;
     align-items: center;
     text-align: center;
+    border-radius: 3px;
 }
 
 a {
@@ -40,6 +41,6 @@ a {
     width: 80px;
     height: 40px;
     display: inline-block;
-    background-color: #7a7a7a68;
     color: #2aa6ee;
+    border-radius: 3px;
 }

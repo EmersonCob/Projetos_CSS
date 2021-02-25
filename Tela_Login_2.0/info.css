@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;  
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family: sans-serif;
+    background: #040404;
+}
+
+.menu ul li { display: inline; }
+
+a:hover{
+    background-color: #d5d3d356;
+    padding: 10px;
+    margin: 3px;
+    align-items: center;
+    text-align: center;
+}
+
+a {
+    padding: 10px;
+    margin: 3px;
+    align-items: center;
+    text-align: center;
+    width: 80px;
+    height: 40px;
+    display: inline-block;
+    background-color: #7a7a7a68;
+    color: #2aa6ee;
+}

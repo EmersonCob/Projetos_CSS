@@ -3,6 +3,7 @@
   padding: 0;
   border: none;
   outline: none;
+  list-style: none;
   box-sizing: border-box;
   -webkit-tap-highlight-color: transparent;  
 }
@@ -16,7 +17,10 @@ body {
     background: #040404;
 }
 
-.menu ul li { display: inline; }
+.menu ul li { 
+    background-color: #2b3235 ;
+    float: left; /* deixar o menu flutuando a direita*/
+}
 
 a:hover{
     background-color: #d5d3d356;
@@ -26,7 +30,6 @@ a:hover{
 a {
     padding: 10px;
     margin: 3px;
-    align-items: center;
     text-align: center;
     width: 80px;
     height: 40px;

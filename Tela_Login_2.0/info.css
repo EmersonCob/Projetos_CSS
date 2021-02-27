@@ -3,6 +3,7 @@
     padding: 0;
     border: none;
     outline: none;
+    text-decoration: none;
     list-style: none;
     box-sizing: border-box;
     -webkit-tap-highlight-color: transparent;  

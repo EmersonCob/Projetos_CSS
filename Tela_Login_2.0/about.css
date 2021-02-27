@@ -19,9 +19,16 @@ body {
     background: #040404;
 }
 
+nav {
+    padding: 10px;
+    margin: 10px;
+}
+
 .menu ul li { 
     background-color: #2b3235 ;
     float: left; /* deixar o menu flutuando a direita*/
+    margin: 10px;
+    border-radius: 3px;
 }
 
 a:hover{
@@ -34,7 +41,7 @@ a {
     margin: 3px;
     text-align: center;
     width: 80px;
-    height: 40px;
+    height: 35px;
     display: inline-block;
     color: #2aa6ee;
     border-radius: 3px;

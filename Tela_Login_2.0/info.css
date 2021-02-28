@@ -46,6 +46,14 @@ a {
     border-radius: 3px;
 }
 
+#newContainer{
+    align-items: center;
+    width: 100vw;
+    background-color: #111111;
+}
+
 h1 {
     color: #ffffff;
+    text-align: center;
+    margin-top: 100px;
 }

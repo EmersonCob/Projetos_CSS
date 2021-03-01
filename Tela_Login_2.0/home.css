@@ -25,7 +25,7 @@ nav {
 
 .menu ul li { 
     background-color: #2b3235 ;
-    float: left; /* deixar o menu flutuando a direita*/
+    float: left; /* deixar o menu flutuando a esquerda*/
     margin: 10px;
     border-radius: 3px;
 }
@@ -46,6 +46,15 @@ a {
     border-radius: 3px;
 }
 
+#newContainer{
+    color: #ffffff;
+    text-align: center;
+    margin-top: 100px;
+
+}
+
 h1 {
     color: #ffffff;
+    text-align: center;
+    margin-top: 100px;
 }

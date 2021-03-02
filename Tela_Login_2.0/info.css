@@ -47,14 +47,21 @@ a {
 }
 
 #newContainer{
-    color: #ffffff;
+    color: #2aa6ee;
     text-align: center;
-    margin-top: 100px;
-
+    padding: 10px;
+    align-items: center;
 }
 
 h1 {
-    color: #ffffff;
+    color: #2aa6ee;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 70px;
+}
+
+.boxContainer{
+    border: solid 1px #2b3235;
+    height: 100vh;
+    padding: 20px;
+    margin: 10px;
 }

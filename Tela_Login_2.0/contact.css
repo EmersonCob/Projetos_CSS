@@ -18,6 +18,8 @@ body {
     background: #040404;
 }
 
+/* Menu */
+
 nav {
     padding: 10px;
     margin: 10px;
@@ -47,28 +49,35 @@ a {
     border-radius: 3px;
 }
 
-h1 {
-    color: #ffffff;
-}
+/* contactBox */
+
 #contactBox {
-    margin: 30px; 
-    padding: 40px;
+    margin-top: 80px; 
+    justify-content: center;
     align-items: center;
     text-align: center;
 }
 
+/* Title */
+
 .contactTitle {
     color: #2aa6ee;
-    font-size: 2.5rem;
+    font-size: 2.0rem;
 }
 
+/* Inputs */
 
 label {
     margin: 15px;
     position: relative;
     display: flex;
     align-items: center;
-    justify-content: left;
+    justify-content: center;
+}
+
+p{
+    color: #2aa6ee;
+
 }
 
 label input {
@@ -77,47 +86,52 @@ label input {
     color: #f9f9f9;
     background: transparent;
 
-    padding: 1rem 3.2rem 1rem 1.2rem;
+
+    padding: 12px;
     min-width: 22rem;
 
     border-radius: 0.2rem;
     border: 2px solid #7a7a7a56;
-
-    transition: border-color 0.2s;
 }
 
 label input:focus {
     border-color: #2aa6ee;
 }
 
-label p {
-    color: #f9f9f9;
-    font-size: 1.2rem;
-    user-select: none;
 
-    position: absolute;
-    top: 50%; /*posição do texto dentro do formulario*/
-    transform: translateY(-50%);
-
-    margin-left: 0.8rem;
-    padding: 0 0.4rem;
-
-    background: #040404;
-
-    transition: top 0.2s, font-size 0.2s, color 0.2s;
-}
-
-label input:focus + p,
-label input:not(:placeholder-shown) + p {
-    top: 0;
-    font-size: 1rem;
-    color: #2aa6ee;
-}
-
-label input:not(:focus) + p {
-    color: #7a7a7a56;
-}
+/* CommentBox */
 
 #boxDescription {
     height: 100px;
 }
+
+#commentBox{
+    font-size: 1.2rem;
+    border-radius: 0.2rem;
+    padding: 10px;
+    color: #2aa6ee;
+    background-color: #7a7a7a56;
+    width: 350px;
+    height: 180px;
+}
+
+/* Button*/
+
+.button:hover {
+    background-color: #d5d3d356;
+    color: #ffffff;
+
+}
+
+.button{
+    text-align: center;
+    margin:5px;
+    background-color: #2b3235;
+    color: #2aa6ee;
+    font-size: 1.2rem;
+    padding: 12px 10px;
+    min-width: 22rem;
+    border-radius: 0.2rem;
+    cursor: pointer;
+}
+

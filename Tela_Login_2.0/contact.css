@@ -57,13 +57,19 @@ h3 {
     margin-top: 70px;
 }
 
-.container{
-    border: solid 1px #2b3235;
-    height: 100vh;
-    padding: 20px;
-    margin: 10px;
+
+label {
+    color: #2aa6ee;
+    text-align: left;
 }
 
+textarea{
+    padding:5px;
+    width: 100px;
+    height: 100px;
+    align-items: center;
+    resize: none;
+}
 
 /* contactBox 
 

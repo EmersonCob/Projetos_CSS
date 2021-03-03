@@ -4,15 +4,15 @@
 
 ## Principal 
 
-* <!DOCTYPE html> - indica a versão do html
+* < !DOCTYPE html > - indica a versão do html
 
-* <html> - conteúdo do código html
+* < html > - conteúdo do código html
 
-* <head> - informações de cabeçalho
+* < head > - informações de cabeçalho
 
-* <body> - envolve todo o corpo do documento
+* < body > - envolve todo o corpo do documento
 
-* <!-- > - comentário
+* < !-- > - comentário
 
 
    No HTML5, o documento padrão recebe a seguinte estrutura:

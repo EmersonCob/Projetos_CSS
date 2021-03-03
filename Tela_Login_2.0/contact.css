@@ -49,26 +49,44 @@ a {
     border-radius: 3px;
 }
 
-/* contactBox */
+/* container*/
+
+h3 {
+    color: #2aa6ee;
+    text-align: center;
+    margin-top: 70px;
+}
+
+.container{
+    border: solid 1px #2b3235;
+    height: 100vh;
+    padding: 20px;
+    margin: 10px;
+}
+
+
+/* contactBox 
 
 #contactBox {
-    margin-top: 80px; 
+    margin-top: 80px;
     justify-content: center;
     align-items: center;
     text-align: center;
 }
 
-/* Title */
+
+
 
 .contactTitle {
+    align-items: center;
+    text-align: center;
     color: #2aa6ee;
     font-size: 2.0rem;
 }
 
-/* Inputs */
+
 
 label {
-    margin: 15px;
     position: relative;
     display: flex;
     align-items: center;
@@ -99,7 +117,7 @@ label input:focus {
 }
 
 
-/* CommentBox */
+
 
 #boxDescription {
     height: 100px;
@@ -115,7 +133,7 @@ label input:focus {
     height: 180px;
 }
 
-/* Button*/
+
 
 .button:hover {
     background-color: #d5d3d356;
@@ -135,3 +153,4 @@ label input:focus {
     cursor: pointer;
 }
 
+*/

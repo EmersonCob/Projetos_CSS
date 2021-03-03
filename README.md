@@ -1,123 +1,80 @@
-# Dicas _HTML_CSS
+ # Dicas _HTML_CSS
 
-# Dominando algumas TAGs HTML
+ # Dominando algumas TAGs HTML
 
-## Principal 
+ ## Principal 
 
-* < !DOCTYPE html > - indica a versão do html
+ * < !DOCTYPE html > - indica a versão do html
 
-* < html > - conteúdo do código html
+ * < html > - conteúdo do código html
 
-* < head > - informações de cabeçalho
+ * < head > - informações de cabeçalho
 
-* < body > - envolve todo o corpo do documento
+ * < body > - envolve todo o corpo do documento
 
-* < !-- > - comentário
+ * < !-- > - comentário
 
 
-   No HTML5, o documento padrão recebe a seguinte estrutura:
+  * No HTML5, o documento padrão recebe a seguinte estrutura:
 
-   < !DOCTYPE html >
-   < html lang="en" >
-   < head >  < !--cabeçalho-- >
-       < meta charset="UTF-8" >
-       < meta http-equiv="X-UA-Compatible" content="IE=edge" >
-       < meta name="viewport" content="width=device-width, initial-scale=1.0" >
-       < link rel="stylesheet" href="home.css" > < !-- link para estilização da pagina, originado de outra estrutura de cogido usando CSS -- >
-       < title >Home< /title > < !--Titulo da pagina-- >
-   < /head >
-   < body > < !-- Corpo da pagina -- >
+   * < !DOCTYPE html >
+   * < html lang="en" >
+   * < head >  < !--cabeçalho-- >
+        < meta charset="UTF-8" >
+        < meta http-equiv="X-UA-Compatible" content="IE=edge" >
+        < meta name="viewport" content="width=device-width, initial-scale=1.0" >
+        < link rel="stylesheet" href="home.css" > < !-- link para estilização da pagina, originado de outra estrutura de cogido usando CSS -- >
+        < title >Home< /title > < !--Titulo da pagina-- >
+   * < /head >
+   * < body > < !-- Corpo da pagina -- >
 
-   < /body >
-   < /html >
+   * < /body >
+   * < /html >
 
-## Demais TAGs
-
-* < b > - negrito
-
-* < i > - itálico
-
-* < u > - sublinhado
-
-* < strong > - maior ênfase no texto em negrito
-
-* < em > - maior ênfase no texto em itálico
-
-* < ol > - lista ordenada
-
-* < ul > - lista não ordenada
-
-* < li > - um item da lista
-
-* < menu > - menu com lista de itens
-
-* < dir > - lista de diretórios
-
-* <dl> - lista de descrição
-
-* <dt> - termo a ser descrito
-
-* <dd> - descrição
-
-* <table> - cria uma tabela
-
-* <caption> - legenda da tabela
-
-* <tr> - linha da tabela
-
-* <th> - célula de cabeçalho
-
-* <td> - célula de dados
-
-* <form> - define um formulário
-
-* <input> - caixa de entrada de dados
-
-* <textarea> - campo de texto
-
-* <select> - seleção de opções
-
-* <option> - define uma opção
-
-* <label> - legenda para os campos
-
-* <main> - conteúdo principal do corpo
-
-* <header> - cabeçalho da página
-
-* <footer> - rodapé da página
-
-* <section> - define uma seção na página
-
-* <article> - define um artigo na página
-
-* <aside> - conteúdo "ao lado” (lateraliza)
-
-* <nav> - seção de links de navegação
-
-* <div> - define uma divisão na página
-
-* <style> - estilização do conteúdo indicado
-
-* <script> - conteúdo de linguagem script
-
-* <p> - parágrafo
-
-* <a> - criação de links
-
-* <img> - imagem
-
-* <pre> - texto pré formatado (com enter, tab)
-
-* <h1> - cabeçalho escrito (vai de h1 - h6, sendo h1o maior tamanho de letra e h6 o menor)
-
-* <br> - quebra de linha
-
-* <title> - título da página web (na aba)
-
-* <meta> - informações do documento (metadados)
-
-* < link > - inclusão de outros documentos
+ ## Demais TAGs
+ * < b > - negrito
+ * < i > - itálico
+ * < u > - sublinhado
+ * < strong > - maior ênfase no texto em negrito
+ * < em > - maior ênfase no texto em itálico
+ * < ol > - lista ordenada
+ * < ul > - lista não ordenada
+ * < li > - um item da lista
+ * < menu > - menu com lista de itens
+ * < dir > - lista de diretórios
+ * < dl > - lista de descrição
+ * < dt > - termo a ser descrito
+ * < dd > - descrição
+ * < table > - cria uma tabela
+ * < caption > - legenda da tabela
+ * < tr > - linha da tabela
+ * < th > - célula de cabeçalho
+ * < td>  - célula de dados
+ * < form > - define um formulário
+ * < input > - caixa de entrada de dados
+ * < textarea > - campo de texto
+ * < select > - seleção de opções
+ * < option > - define uma opção
+ * < label > - legenda para os campos
+ * < main > - conteúdo principal do corpo
+ * < header > - cabeçalho da página
+ * < footer > - rodapé da página
+ * < section > - define uma seção na página
+ * < article > - define um artigo na página
+ * < aside > - conteúdo "ao lado” (lateraliza)
+ * < nav > - seção de links de navegação
+ * < div > - define uma divisão na página
+ * < style > - estilização do conteúdo indicado
+ * < script > - conteúdo de linguagem script
+ * < p > - parágrafo
+ * < a > - criação de links
+ * < img > - imagem
+ * < pre > - texto pré formatado (com enter, tab)
+ * < h1 > - cabeçalho escrito (vai de h1 - h6, sendo h1o maior tamanho de letra e h6 o menor)
+ * < br > - quebra de linha
+ * < title > - título da página web (na aba)
+ * < meta > - informações do documento (metadados)
+ * < link > - inclusão de outros documentos
 
 
  # Dominando o CSS

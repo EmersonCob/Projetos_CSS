@@ -23,7 +23,7 @@
        * < meta charset="UTF-8" >
        * < meta http-equiv="X-UA-Compatible" content="IE=edge" >
        * < meta name="viewport" content="width=device-width, initial-scale=1.0" >
-       * < link rel="stylesheet" href="home.css" > < !-- link para estilização da pagina, originado de outra estrutura de cogido usando CSS -- >
+       * < link rel="stylesheet" href="home.css" > < !-- link para estilização da pagina, originado de outra estrutura de cogido usando CSS -- > 
        * < title >Home< /title > < !--Titulo da pagina-- >
    * < /head >
    * < body > < !-- Corpo da pagina -- >

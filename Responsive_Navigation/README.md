@@ -3,8 +3,8 @@
 
 ## Demonstration
 
-<img src="./img/result1.png" alt="Exemplo">
-<img src="./img/result2.png" alt="Exemplo">
+<img src="./img/Result1.png" alt="Exemplo">
+<img src="./img/Result2.png" alt="Exemplo">
 
 
 ## Techs

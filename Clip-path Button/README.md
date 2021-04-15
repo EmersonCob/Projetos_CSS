@@ -4,7 +4,6 @@
 ## Demonstration
 
 <img src="./img/result.png" alt="Exemplo">
-<img src="./img/result1.png" alt="Exemplo">
 
 ## Techs
 
